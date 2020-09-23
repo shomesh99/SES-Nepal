@@ -1,0 +1,22 @@
+1.Ans: 7
+2.Ans: I will prefer work as a team.To develop a machine it is divided into parts.
+All the members are assigned with any task to do.
+After all of them completed their work and finally it is assembled and a product is ready.
+Similary for website development every member have to complete their work in time and assemble to get a product.
+When we work in a team we can help each other and can manage different points.It also create a environment to work.
+3. Ans: I will divide the work in different days. And give priority to the needed one first,
+4. Ans: I know bootstrap and i am learning React.Js
+5. Ans: No i don't have knowledge of VCS but i heard about Git.
+6.Ans: User experience (UX) is the interaction and experience users have with a company's products and services.
+User interface (UI) is the specific asset users interact with. 
+For example, UI can deal with traditional concepts like visual design elements such as 
+colors and typography.
+7.Ans:Lazy loading (also called on-demand loading) is an optimization technique for the online content,
+ be it a website or a web app.Instead of loading the entire web page and rendering it to the user in one go as in 
+bulk loading, the concept of lazy loading assists in loading only the required section and delays the remaining, 
+until it is needed by the user.
+8. Ans:  Neumorphism (aka neomorphism) is a relatively new design trend and a term that's gotten a good amount of buzz lately. It's aesthetic is marked by minimal and real-looking 
+UI that's sort of a new take on skeuomorphism — hence the name.
+Flat Design does not have any gradient/shadows added to it whereas Material Design makes use of these to create a sense of depth. ... Material Design uses Animation to show users what is exactly happening on the screen. 
+It also gives visual cues.
+ 9 and 10 Ans: I have developed a website for my Cousin.He runs a consultancy. It is not published yet.
